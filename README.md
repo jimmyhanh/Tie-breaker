@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="<img width="1330" height="801" alt="image" src="https://github.com/user-attachments/assets/f80181f1-dff1-4361-aeda-8e746ad1e012" />
+<img width="1200" height="475" alt="GHBanner" src="<img width="1330" height="801" alt="image" src="https://github.com/user-attachments/assets/f80181f1-dff1-4361-aeda-8e746ad1e012">
 " />
 </div>
 
